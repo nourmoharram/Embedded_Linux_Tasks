@@ -1,3 +1,7 @@
+'''
+Task description: write a python program to count the number 4 in a given list
+'''
+
 def count_4(lst):
     count = 0
     for num in lst:

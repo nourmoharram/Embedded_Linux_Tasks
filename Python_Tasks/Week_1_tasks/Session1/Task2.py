@@ -1,3 +1,9 @@
+'''
+Task description: Write a Python program to test whether a passed letter is a vowel or not.
+
+'''
+
+
 def is_vowel(letter):
     vowels = 'aeiouAEIOU'
     return letter in vowels

@@ -1,3 +1,8 @@
+'''
+Task description: Write a code to parse data from a site
+
+'''
+
 import requests
 
 def get_ip_info():

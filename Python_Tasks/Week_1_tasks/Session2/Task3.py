@@ -1,3 +1,13 @@
+'''
+Task description: Using Pyautogui do the next steps :
+- install clangd from extension
+- install c++ testmate  from extension
+- install c++ helper  from extension
+- install cmake  from extension
+- install cmake tools  from extension
+
+'''
+
 import pyautogui
 import time
 

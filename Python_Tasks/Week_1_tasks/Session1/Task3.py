@@ -1,3 +1,8 @@
+'''
+Task description: Write a python program to access environment variables.
+
+'''
+
 import os
 import platform
 

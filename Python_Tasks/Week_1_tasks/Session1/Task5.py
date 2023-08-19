@@ -1,3 +1,7 @@
+'''
+Task description: Print the calendar of a given month and year.
+
+'''
 import calendar
 
 year = int(input("Enter the year: "))
