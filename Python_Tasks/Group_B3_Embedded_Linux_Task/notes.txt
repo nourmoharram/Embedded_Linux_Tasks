@@ -1,0 +1,12 @@
+on_key_event
+append_to_notes
+#import keyboard library to monitor keyboard events
+import keyboard
+#import pyperclip library to access copied data in clipboard
+import pyperclip
+
+
+# A flag to indicate when to append clipboard content to notes
+append_to_notes = False
+# A flag to end the program execution
+End_Program = True

@@ -1,0 +1,21 @@
+paste
+append_copied_text
+append_to_notes
+name
+append_to_notes
+notes_file
+keyboard
+append_to_notes
+        elif event.name == "E" and keyboard.is_pressed("alt+shift"):
+
+            print("Append to notes: ", append_to_notes)
+
+        elif event.name == "e" and keyboard.is_pressed("alt+shift"):
+
+False
+        elif event.name == "e" and keyboard.is_pressed("alt+shift"):
+
+            print("Copied content appended to notes.")
+
+keyboard.hook(on_key_event)
+
